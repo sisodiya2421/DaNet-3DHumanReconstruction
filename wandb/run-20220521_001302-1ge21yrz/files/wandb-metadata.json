@@ -1,0 +1,23 @@
+{
+    "os": "Linux-5.13.0-41-generic-x86_64-with-debian-bullseye-sid",
+    "python": "3.6.10",
+    "heartbeatAt": "2022-05-20T18:43:05.300485",
+    "startedAt": "2022-05-20T18:43:02.578506",
+    "docker": null,
+    "gpu": "NVIDIA GeForce MX130",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/sisodiya2421/DaNet-3DHumanReconstruction.git",
+        "commit": "40082461a979ee54122e2083edb9d880b1acd465"
+    },
+    "email": "sisodiya2421@gmail.com",
+    "root": "/home/abhishek/Desktop/research/DaNet-3DHumanReconstruction",
+    "host": "abhishek-Latitude-3400",
+    "username": "abhishek",
+    "executable": "/home/abhishek/miniconda3/envs/danet/bin/python"
+}
